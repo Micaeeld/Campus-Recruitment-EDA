@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis for Campus Recruitment
 
 This notebook contains an exploratory data analysis for the "Factors Affecting Campus Placement" dataset, available from Kaggle at https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement. This dataset contains information about the placement of students at a university during on-campus recruitment processes.
